@@ -1,5 +1,3 @@
 # examples
 Eddington examples
 
-
-
